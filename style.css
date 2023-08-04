@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient(45deg, rgb(91, 216, 112) 0%, rgba(67, 88, 116, 1) 100%);
+    background-attachment: fixed;
+    color: black;
+}
